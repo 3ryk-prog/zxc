@@ -1,0 +1,7 @@
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\bin\Debug\liczb_od_1_do_n.exe.config
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\bin\Debug\liczb_od_1_do_n.exe
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\bin\Debug\liczb_od_1_do_n.pdb
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\obj\Debug\liczb_od_1_do_n.csproj.AssemblyReference.cache
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\obj\Debug\liczb_od_1_do_n.csproj.CoreCompileInputs.cache
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\obj\Debug\liczb_od_1_do_n.exe
+C:\Users\enowa\Desktop\Zadania2\liczb_od_1_do_n\liczb_od_1_do_n\obj\Debug\liczb_od_1_do_n.pdb

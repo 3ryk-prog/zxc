@@ -1,0 +1,7 @@
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\bin\Debug\NWW.exe.config
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\bin\Debug\NWW.exe
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\bin\Debug\NWW.pdb
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\obj\Debug\NWW.csproj.AssemblyReference.cache
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\obj\Debug\NWW.csproj.CoreCompileInputs.cache
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\obj\Debug\NWW.exe
+C:\Users\enowa\Desktop\Zadania2\NWW\NWW\obj\Debug\NWW.pdb
